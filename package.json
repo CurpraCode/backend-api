@@ -11,6 +11,11 @@
     "express": "^4.17.1",
     "mongoose": "^5.11.15"
   },
+
+  "scripts" {
+     "start": "node index.js",
+     "test": "echo\"Error:no test specified \" && exit 1"
+},
   "devDependencies": {
     "nodemon": "^2.0.7"
   }
